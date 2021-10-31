@@ -1,6 +1,6 @@
 # Easy Version Upgrade Library
 
-A PHP library withg simple trait use to run setup upgrades with version.
+A PHP library with a simple trait is used to run setup upgrades with the version.
 
 ## Installation
 
